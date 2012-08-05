@@ -1,0 +1,8 @@
+#members li{ display: inline-block; width: auto; height: 100px; overflow: hidden}
+#members{ list-style: none; position: relative;}
+#gallery{ width: 700px; margin: 50px auto; overflow: hidden; height: 105px; position: relative}
+#members li:nth-child(4){border: 8px solid #C67891; border-radius: 8px; background-color:#C67891; height: 84px}
+.biography{width: 400px; margin: 0 auto; text-align: left; font-family: 'Cabin',​arial,​serif; background-color: #fff; padding: 10px; border-radius: 10px;}
+.biography span{ width: 120px; font-family: arial }
+.about{margin: 8px 0 4px 0; font-family: ​arial,​serif;}
+.bio-wrapper{background-color: #9DCDEC; height: 100%;}

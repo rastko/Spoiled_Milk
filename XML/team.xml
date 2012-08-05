@@ -1,0 +1,217 @@
+<rss version="2.0">
+    <team>
+	
+        <member>
+            <name>
+                Nemanja Bolundzic
+            </name>
+            <position>
+				Head of Belgrade Office
+            </position>
+			<image_src>
+				images/nemanja.png
+			</image_src>
+			<description>
+				Lorem Ipsum dolor sin amet
+			</description>
+        </member>
+		
+		
+		
+		<member>
+            <name>
+                Aleksandar Vasiljevic
+            </name>
+            <position>
+				Mobile Developer
+            </position>
+			<image_src>
+				images/aleksandarv.png
+			</image_src>
+			<description>
+				Lorem Ipsum dolor sin amet
+			</description>
+        </member>
+		
+		<member>
+            <name>
+                Aleksandar Jakovljevic
+            </name>
+            <position>
+				Web Manager
+            </position>
+			<image_src>
+				images/aleksandarj.png
+			</image_src>
+			<description>
+				OMG Coa!
+			</description>
+        </member>
+		
+		<member>
+            <name>
+                Casper Hubertz Jorgensen
+            </name>
+            <position>
+				Founder, Creative Director
+            </position>
+			<image_src>
+				images/casper.png
+			</image_src>
+			<description>
+				Lorem Ipsum dolor sin amet
+			</description>
+        </member>
+		
+		<member>
+            <name>
+                Christian Wollenweider
+            </name>
+            <position>
+				Technical Director
+            </position>
+			<image_src>
+				images/christian.png
+			</image_src>
+			<description>
+				Lorem Ipsum dolor sin amet
+			</description>
+        </member>
+		
+		<member>
+            <name>
+                David Luisi
+            </name>
+            <position>
+				Managing Director
+            </position>
+			<image_src>
+				images/dave.png
+			</image_src>
+			<description>
+				Lorem Ipsum dolor sin amet
+			</description>
+        </member>
+		
+		<member>
+            <name>
+                Frederik Cordes
+            </name>
+            <position>
+				Founder, Strategic Director
+            </position>
+			<image_src>
+				images/frederik.png
+			</image_src>
+			<description>
+				Lorem Ipsum dolor sin amet
+			</description>
+        </member>
+		
+		<member>
+            <name>
+                Ivan Pavlovic
+            </name>
+            <position>
+				Mobile Developer
+            </position>
+			<image_src>
+				images/ivan.png
+			</image_src>
+			<description>
+				Lorem Ipsum dolor sin amet
+			</description>
+        </member>
+		
+		<member>
+            <name>
+                Marija Ljujic
+            </name>
+            <position>
+				Strategic Planner
+            </position>
+			<image_src>
+				images/marija.png
+			</image_src>
+			<description>
+				Lorem Ipsum dolor sin amet
+			</description>
+        </member>
+		
+		<member>
+            <name>
+                Rastko Milovanovic
+            </name>
+            <position>
+				Front-end Developer
+            </position>
+			<image_src>
+				images/rastko.png
+			</image_src>
+			<description>
+				Lorem Ipsum dolor sin amet
+			</description>
+        </member>
+		
+		<member>
+            <name>
+                Vicki Lo
+            </name>
+            <position>
+				Strategic Planner
+            </position>
+			<image_src>
+				images/vicki.png
+			</image_src>
+			<description>
+				Lorem Ipsum dolor sin amet
+			</description>
+        </member>
+		
+		<member>
+            <name>
+                Vladimir Vujosevic
+            </name>
+            <position>
+				Front-end Developer
+            </position>
+			<image_src>
+				images/vladimir.png
+			</image_src>
+			<description>
+				Lorem Ipsum dolor sin amet
+			</description>
+        </member>
+		
+		<member>
+            <name>
+                Vladimir Milosevic
+            </name>
+            <position>
+				Mobile Developer
+            </position>
+			<image_src>
+				images/vladimir_m.png
+			</image_src>
+			<description>
+				Lorem Ipsum dolor sin amet
+			</description>
+        </member>
+		
+		<member>
+            <name>
+                Vladimir Petrovic
+            </name>
+            <position>
+				Mobile Developer
+            </position>
+			<image_src>
+				images/vladimir_p.png
+			</image_src>
+			<description>
+				Lorem Ipsum dolor sin amet
+			</description>
+        </member>
+		
+    </team>
+</rss>
